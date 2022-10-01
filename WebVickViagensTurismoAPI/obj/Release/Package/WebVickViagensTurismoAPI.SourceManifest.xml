@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <sitemanifest>
-  <IisApp path="c:\users\vitor\documents\visual studio 2015\Projects\WebVickViagensTurismoAPI\WebVickViagensTurismoAPI\obj\Release\Package\PackageTmp" />
-  <setAcl path="c:\users\vitor\documents\visual studio 2015\Projects\WebVickViagensTurismoAPI\WebVickViagensTurismoAPI\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
-  <setAcl path="c:\users\vitor\documents\visual studio 2015\Projects\WebVickViagensTurismoAPI\WebVickViagensTurismoAPI\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <IisApp path="C:\Users\vitor\Downloads\webapi\webapivick\WebVickViagensTurismoAPI\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\vitor\Downloads\webapi\webapivick\WebVickViagensTurismoAPI\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\vitor\Downloads\webapi\webapivick\WebVickViagensTurismoAPI\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
 </sitemanifest>

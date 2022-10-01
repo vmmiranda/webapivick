@@ -5,9 +5,11 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using WebVickViagensTurismoAPI.Models;
+using System.Web.Http.Cors;
 
 namespace WebVickViagensTurismoAPI.Controllers
 {
+    [EnableCors(origins: "*", headers: "*", methods: "*")]
     public class PagamentoController : ApiController
     {
         static readonly IPagamentoRepositorio pagamentoRepositorio = new PagamentoRepositorio();
